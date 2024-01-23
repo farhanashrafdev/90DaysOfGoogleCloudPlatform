@@ -46,6 +46,5 @@
 - Schedule and take the GCP certification exams on Google Cloud
 - Work on some GCP projects that showcase your skills and portfolio
 
-I hope this plan helps you learn GCP hands-on for beginners in 90 days. Remember, this is just a suggested plan, and you can always modify it according to your own needs and preferences. The most important thing is to enjoy the learning process and have fun with GCP. 😊
-
-Note: If the plan looks overly ambitious or unrealistic for you. I was attempting to cover all feasible topics and certifications connected to Google Cloud Platform in 90 days. However, you may always tailor the plan to your own pace and preferences. You can skip some courses or certificates that are unrelated to your objectives, or you can extend the time frame as needed. Happy learning. 
+Note: 
+I hope this plan helps you learn GCP beginners in 90 days. The most important thing is to enjoy the learning process and have fun with GCP. 😊 If the plan looks overly ambitious or unrealistic for you. I was attempting to cover all feasible topics and certifications connected to Google Cloud Platform in 90 days. However, you may always tailor the plan to your own pace and preferences. You can skip some courses or certificates that are unrelated to your objectives, or you can extend the time frame as needed, this is just a suggested plan, and you can always modify it according to your own needs and preferences. Happy learning. 
